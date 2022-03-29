@@ -22,6 +22,6 @@ else {
 }
 
 
-console.log(`Dato utente: ${random_utente}`)
-console.log(`Dato CPU ${random_pc}`)
+console.log(`Dado utente: ${random_utente}`)
+console.log(`Dado CPU: ${random_pc}`)
 console.log(risultato);
